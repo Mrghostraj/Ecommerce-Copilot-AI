@@ -119,7 +119,7 @@ SERPAPI_KEY=serpapi_key
 
 ## Link to Visit Website
 
-👉 [CommercePilot AI](https://commercepilot-ai-1.onrender.com)
+👉 [CommercePilot AI](https://ecommerce-copilot-ai-1.onrender.com/)
 
 # 👨‍💻 Author
 
