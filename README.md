@@ -1,4 +1,4 @@
-# CommercePilot AI
+# E-Commerce CoPilot AI
 
 **Track:** AI Growth & Agentic Commerce
 
@@ -120,3 +120,10 @@ SERPAPI_KEY=serpapi_key
 ## Link to Visit Website
 
 👉 [CommercePilot AI](https://commercepilot-ai-1.onrender.com)
+
+# 👨‍💻 Author
+
+## Randhir Kumar
+
+**B.Tech — Metallurgical & Materials Engineering**  
+**NIT Jamshedpur**
