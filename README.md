@@ -1,4 +1,4 @@
-# E-Commerce CoPilot AI
+# CommercePilot AI
 
 **Track:** AI Growth & Agentic Commerce
 
