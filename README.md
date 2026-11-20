@@ -2,7 +2,7 @@
 
 **Track:** AI Growth & Agentic Commerce
 
-CommercePilot AI is a multi-agent shopping and negotiation platform that simulates an AI buyer, AI seller, and negotiation engine to help users discover products, negotiate offers, and make a final human-approved decision.
+E-Commerce CoPilot AI is a multi-agent shopping and negotiation platform that simulates an AI buyer, AI seller, and negotiation engine to help users discover products, negotiate offers, and make a final human-approved decision.
 
 ## Problem Statement
 
